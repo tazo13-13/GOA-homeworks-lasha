@@ -2,7 +2,6 @@ from turtle import*
 
 speed(10)
 
-
 #we want to point a house 
 
 #step 1: draw a square
