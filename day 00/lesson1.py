@@ -28,7 +28,6 @@ end_fill()
 
 #drawind a door
 
-
 forward(70)
 color("black")
 begin_fill()
@@ -40,7 +39,6 @@ right(90)
 forward(90)
 end_fill()
 #end of drawing door
-
 
 penup()
 goto(200,200)
@@ -63,8 +61,6 @@ color("grey")
 left(30)
 forward(85)
 
-
-
 color("green")
 
 begin_fill()
@@ -86,7 +82,6 @@ forward(200)
 right(90)
 forward(85)
 
-
 color("green")
 begin_fill()
 
@@ -98,6 +93,5 @@ right(90)
 forward(50)
 
 end_fill()
-
 
 exitonclick()
