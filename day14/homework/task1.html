@@ -1,0 +1,74 @@
+<!-- 1 -->
+<!-- type - ატრიბუტის დახმარებით შეგვიძლია მივუთითოთ მონაცემის ტიპი. -->
+<!-- name ატრიბუტი გამოიყენება ფორმის გაგზავნისას. -->
+<!-- id - გამოიყენება label თან ერთად, რომელიც მნიშვნელოვანია. -->
+
+
+<!-- 2 -->
+<h1> Bank Register</h1>
+
+enter your name:
+<input type="text">
+<br>
+enter your surname:
+<input type="text">
+<br>
+enter your email:
+<input type="email">
+<br>
+enter cash:
+<input type="text">
+<br>
+<label for="language">რომელი ფული?:</label>
+    <select id="ფული" name="ფული" required>
+    <option value="">აირჩიე ფული</option>
+    <option value="ლარი">ლარი</option>
+    <option value="ევრო">ევრო</option>
+    <option value="დოლარი">დოლარი</option> 
+<br><br><br>
+    <label>სქესი:</label>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">მამრობითი</label>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">მდედრობითი</label>
+
+
+<!-- 3 -->
+<form>
+<p><label>რომელი პროგრამირების ენა მოგწონთ ყველაზე მეტად?</label></p>
+    <input type="radio" name="language" id="html" value="HTML">
+    <label for="html">HTML</label><br>
+
+    <input type="radio" name="language" id="css" value="CSS">
+    <label for="css">CSS</label><br>
+
+    <input type="radio" name="language" id="js" value="JavaScript">
+    <label for="js">JavaScript</label><br>
+
+    <input type="radio" name="language" id="python" value="Python">
+    <label for="python">Python</label><br><br>
+    <input type="submit" value="დადასტურება">
+</form>
+
+
+<!-- 4 -->
+<form>
+    <label for="name">სახელი:</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+
+    <!-- გვარი -->
+    <label for="lastname">გვარი:</label><br>
+    <input type="text" id="lastname" name="lastname" required><br><br>
+
+    <label for="email">მეილი:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="password">პაროლი:</label><br>
+    <input type="password" id="password" name="password" required><br><br>
+    
+    <input type="submit" value="გაგზავნა">
+</form>
+
+
+<!-- 5 -->
+<!-- დავასრულე -->
