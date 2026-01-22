@@ -5,13 +5,13 @@ for i in range(1, 51, 2):
 
 # 2
 username = input("Enter your username :")
-for i in username:
+for i in username:  
     print(i)
 
 
 # 3
 for i in range(150):
-    if i % 2 == 0:
+    if  i % 2 == 0:
         print("even")
     else:
         print("odd")
