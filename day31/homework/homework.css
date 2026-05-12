@@ -1,0 +1,25 @@
+/* 2 */
+p{
+    text-align:justify;
+    text-decoration: line-through blueviolet;
+    text-shadow: 20px 2px 3px greenyellow;
+}
+
+h1{
+    text-align:right;
+    text-decoration:line-through green;
+    text-shadow:2px 4px 5px blue;
+} 
+
+p2{
+    color:rgb(98, 8, 8);
+    text-align:center;
+    text-shadow:4px 2px 1px  green;
+    background-color:rgb(64, 18, 18)
+}
+h2{
+    color:rgb(181, 32, 32);
+    text-align:center;
+    text-shadow:5px 2px 3px  green;
+    background-color:rgb(64, 18, 18) 
+}
