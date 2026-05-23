@@ -1,0 +1,20 @@
+#goa {
+    color: blue;
+    background-color: gray;
+    font-size: 30px;
+}
+
+p {
+    color: green;
+    background-color: lightgray;
+}
+
+b {
+    color: blue;
+    background-color: gray;
+    font-size: 30px;
+}
+img {
+    width: 300px;
+    height: 200px;
+}

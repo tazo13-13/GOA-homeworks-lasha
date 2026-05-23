@@ -1,0 +1,31 @@
+/* 1 */
+/* font family - გამოიყენება სხვადასხვა სტილის დამწერლობაში. */
+/* font weight - გამოიყენება ტექსტის სისქის გასაწერად. */
+
+
+/* 2 */
+p{
+    font: weight 600px;
+}
+
+/* 3 */
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+p{
+    font-family: "Inter", sans-serif;
+}
+
+
+/* 3 */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S+Guides:ital@0;1&display=swap');
+p{
+    font-family: "Playwrite GB S Guides", cursive;
+}
+
+/* 4 */
+h1{
+    font-family:serif;
+    font-weight: 500px;
+}
+
+
+
