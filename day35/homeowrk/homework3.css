@@ -1,0 +1,16 @@
+table{
+    background-color: #34495e;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    border-spacing: 20px;
+}
+
+th{
+    color: #d8df59;
+    text-align: left;
+}
+
+td{
+    padding: 10px;
+}

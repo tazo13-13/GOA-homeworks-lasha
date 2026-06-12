@@ -1,0 +1,37 @@
+h1{
+    color:green;
+    text-align: center;
+}
+p{
+    color:green;
+    text-align: center;
+}
+
+table {
+            width: 80%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            font-size: 16px;
+        }
+
+
+
+
+th, td {
+            border: 1px solid #5c1d24; 
+            padding: 12px;
+            text-align: center;
+        }
+
+
+th {
+            background-color: #cbfad1; 
+            color: #000000;
+            font-weight: bold;
+        }
+
+        
+        td {
+            color: #000000;
+            background-color: #ffffff;
+        }
