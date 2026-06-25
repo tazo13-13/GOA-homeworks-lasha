@@ -1,0 +1,73 @@
+
+#random  {border-radius: 
+    0% 100% 94% 6% / 0% 100% 0% 100% ;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+form {
+    width: 300px;
+}
+
+input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+input[type="text"] {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.surname {
+    border: 3px dashed green;
+}
+
+input[type="number"] {
+    border: 3px dotted red;
+}
+
+input[type="email"] {
+    border: 3px double purple;
+}
+
+input[type="tel"] {
+    border: 4px groove rgb(255, 244, 224);
+}
+
+input[type="password"] {
+    border: 4px ridge rgb(141, 67, 184);
+}
+
+
+
+
+
+
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+
+/* 4 */
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+}
