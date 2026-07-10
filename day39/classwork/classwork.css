@@ -1,0 +1,44 @@
+#parent {
+    width: 500px;
+    height: 500px;
+    background-color:rgb(161, 160, 160);
+    display:flex;
+    justify-content: center;
+    align-items:end;
+    
+}
+
+
+
+#child {
+    color:white;
+    width: 100px;
+    height: 150px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#child2 {
+    color:rgb(133, 128, 128);
+    width: 100px;
+    height: 200px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#child3 {
+    display:flex ;
+    color:white;
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,21 @@
+h1{
+    color: rgb(29, 104, 79);
+    text-align: center;
+}
+
+body{
+    background-color:aqua
+}
+p{
+    color:rgb(29, 104, 79);
+    text-align: center;
+    text-decoration: justify;
+}
+
+img {
+    margin-left: 50px;
+}
+
+a {
+    color:rgb(8, 62, 62)
+}
